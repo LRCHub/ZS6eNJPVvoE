@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "松任谷由実 - ルージュの伝言 (松任谷由実 CONCERT TOUR 宇宙図書館 2016-2017)",
+  "base_artist": "松任谷由実",
+  "createdAt": "2026-03-08T14:09:02.981539Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルージュの伝言",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_ルージュの伝言_松任谷_由実.txt"
+    }
+  ]
+}
